@@ -1,0 +1,6 @@
+{
+  "name": "QuantumLearn - Interactive Quantum Lab & Qiskit Disaster Solver",
+  "description": "Interactive quantum computing learning platform featuring qubit visualizers, Bloch sphere, circuit builder, entanglement experiments, and a real-world Qiskit QAOA disaster management hybrid solver.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
